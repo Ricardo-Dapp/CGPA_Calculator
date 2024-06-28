@@ -1,11 +1,10 @@
 Outline:
+A simple GPA calculator.
 
-1. ask user to input grade
-2. ask user if they want to input another grade
-3. quit if no else continue
-4. compute CGPA
-5. output CGPA
+Steps:
 
-fix:
-
-1. fix grade array
+1. ask user how many classes they are entering
+2. ask user to input grade
+3. ask user to input credit(s)
+4. compute GPA
+5. output GPA
